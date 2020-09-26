@@ -1,4 +1,5 @@
 <?php
 include "menu.php";
 ?>
-<h2>Главная</h2>
+
+<h2>test 2</h2>
