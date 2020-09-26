@@ -8,9 +8,6 @@
     <title>Document</title>
 </head>
 <body>
-<?php
-include "menu.php";
-?>
-<h1>Контакты</h1>
+<h1>Новости культуры</h1>
 </body>
 </html>
